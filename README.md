@@ -1,6 +1,6 @@
 # CLDR Data Scrape Project
 
-This application built with PHP.
+This application is built with PHP.
 
 ## Getting Started
 
